@@ -24,4 +24,4 @@
 
 - Save to `og.json`
 - Run `prepare.py` file to create `new.json`
-- Run `change.py` file to change the tag and title.
+- Run `change.py` file to change the tag and title and wait
